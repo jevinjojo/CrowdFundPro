@@ -2,13 +2,25 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { ThirdwebProvider } from "thirdweb/react";
+import NavBar from "./components/Navbar";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "thirdweb SDK + Next starter",
+  title: "CrowdFundPro | Blockchain Crowdfunding Platform",
   description:
-    "Starter template for using thirdweb SDK with Next.js App router",
+    "A decentralized crowdfunding platform powered by blockchain technology",
+  icons: [
+    {
+      rel: "icon",
+      url: "/new-favicon.svg",
+      type: "image/svg+xml",
+    },
+    {
+      rel: "apple-touch-icon",
+      url: "/new-favicon.svg",
+    },
+  ],
 };
 
 export default function RootLayout({
@@ -18,8 +30,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>
-        <ThirdwebProvider>{children}</ThirdwebProvider>
+      <body className="bg-slate-100 text-slate-700">
+        <ThirdwebProvider>
+          
+          <NavBar/>
+          {children} 
+
+        </ThirdwebProvider>
       </body>
     </html>
   );
