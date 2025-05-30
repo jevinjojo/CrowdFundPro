@@ -1,59 +1,20 @@
+## Web3 Crowdfunding Platform
 
-![tw-banner](https://github.com/thirdweb-example/next-starter/assets/57885104/20c8ce3b-4e55-4f10-ae03-2fe4743a5ee8)
+![CrowdFundPro- HomePage](https://github.com/user-attachments/assets/4af5618e-0e50-471f-b0f5-410178fc2247)
 
-# thirdweb-next-starter
+User’s Dashboard Area to Manage their Campaigns.
 
-Starter template to build an onchain react native app with [thirdweb](https://thirdweb.com/) and [next](https://nextjs.org/).
+![DashBoard](https://github.com/user-attachments/assets/59c80cf4-4320-4412-b889-70b4b04f2fd5)
 
-## Installation
+Campaign Listing Page
 
-Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
+![Campaign](https://github.com/user-attachments/assets/5c598b3d-ee4a-4284-82a3-e524ee2fa95a)
 
-```bash
-  npx thirdweb create app --next
-```
+## Build
+First, clone the repository and install the dependencies with `yarn` 
+Now you will need to add `CLIENT_ID` of thirdWeb to your .env file:
 
-## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file:
+To create a client ID, refer to the [client documentation](https://portal.thirdweb.com/typescript/v5/client). 
 
-`CLIENT_ID`
-
-To learn how to create a client ID, refer to the [client documentation](https://portal.thirdweb.com/typescript/v5/client). 
-
-## Run locally
-
-Install dependencies
-
-```bash
-yarn
-```
-
-Start development server
-
-```bash
-yarn dev
-```
-
-Create a production build
-
-```bash
-yarn build
-```
-
-Preview the production build
-
-```bash
-yarn start
-```
-
-## Resources
-
-- [Documentation](https://portal.thirdweb.com/typescript/v5)
-- [Templates](https://thirdweb.com/templates)
-- [YouTube](https://www.youtube.com/c/thirdweb)
-- [Blog](https://blog.thirdweb.com)
-
-## Need help?
-
-For help or feedback, please [visit our support site](https://thirdweb.com/support)
+The development version can be started with `yarn dev`
