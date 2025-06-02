@@ -11,7 +11,7 @@ Campaign Listing Page
 ![Campaign](https://github.com/user-attachments/assets/5c598b3d-ee4a-4284-82a3-e524ee2fa95a)
 
 ## Build
-First, clone the repository and install the dependencies with `yarn` 
+First, Clone the repository and install the dependencies with `yarn` 
 Now you will need to add `CLIENT_ID` of thirdWeb to your .env file:
 
 
