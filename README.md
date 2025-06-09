@@ -15,7 +15,7 @@ First, Clone the repository and install the dependencies with `yarn`.
 Now you need to add `CLIENT_ID` of thirdWeb to your .env file:
 
 
-To create a client ID, refer to the [client documentation](https://portal.thirdweb.com/typescript/v5/client). 
+To create a Client ID, refer to the [client documentation](https://portal.thirdweb.com/typescript/v5/client). 
 
 The development version can be started with `yarn dev`.
 
