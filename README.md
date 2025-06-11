@@ -12,7 +12,7 @@ Campaign Listing Page
 
 ## Build
 First, Clone the repository and install the dependencies with `yarn`.
-Now you need to add `CLIENT_ID` of thirdWeb to your .env file:
+Now you need to add `CLIENT_ID` of thirdWeb to your .env file.
 
 
 To create a Client ID, refer to the [client documentation](https://portal.thirdweb.com/typescript/v5/client). 
