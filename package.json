@@ -1,7 +1,6 @@
 {
   "name": "web3cfapp",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,6 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hey-api/openapi-ts": "^0.77.0",
     "next": "14.1.0",
     "react": "^18.3",
     "react-dom": "^18.3",
