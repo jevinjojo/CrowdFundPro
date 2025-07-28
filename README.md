@@ -22,4 +22,4 @@ The development version can be started with `yarn dev`.
 
 ## About CrowdFundPro
 
-CrowdFundPro is a decentralized crowdfunding platform built on blockchain technology that individuals can create, fund, and support impactful campaigns securely and transparently
+CrowdFundPro is a decentralized crowdfunding platform built on blockchain technology that individuals can create, fund, and support impactful campaigns securely and transparently.
