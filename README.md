@@ -2,7 +2,7 @@
 
 ![CrowdFundPro- HomePage](https://github.com/user-attachments/assets/4af5618e-0e50-471f-b0f5-410178fc2247)
 
-User’s Dashboard Area to Manage their Campaigns
+User’s Dashboard Area to Manage their Campaigns.
 
 ![DashBoard](https://github.com/user-attachments/assets/59c80cf4-4320-4412-b889-70b4b04f2fd5)
 
