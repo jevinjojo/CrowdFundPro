@@ -8,7 +8,7 @@ User’s Dashboard Area to Manage their Campaigns.
 
 Campaign Listing Page
 
-![Campaign](https://github.com/user-attachments/assets/5c598b3d-ee4a-4284-82a3-e524ee2fa95a)
+![Campaign](https://github.com/user-attachments/assets/5c598b3d-ee4a-4284-82a3-e524ee2fa95a).
 
 ## Build
 First, Clone the repository and Install the dependencies with `yarn`.
