@@ -4,7 +4,7 @@
 
 User’s Dashboard Area to Manage their Campaigns.
 
-![DashBoard](https://github.com/user-attachments/assets/59c80cf4-4320-4412-b889-70b4b04f2fd5)
+![DashBoard](https://github.com/user-attachments/assets/59c80cf4-4320-4412-b889-70b4b04f2fd5) 
 
 Campaign Listing Page
 
