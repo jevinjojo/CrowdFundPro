@@ -20,6 +20,6 @@ To create a Client ID, refer to the [client documentation](https://portal.thirdw
 The development version can be started with `yarn dev`.
 
 
-## About CrowdFundPro
+## About CrowdFundPro 
 
 CrowdFundPro is a decentralized crowdfunding platform built on blockchain technology that individuals can create, fund, and support impactful campaigns securely and transparently.
